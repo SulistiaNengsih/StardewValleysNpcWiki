@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Stardew Valley\'s NPC Wiki</string>
+    <string name="npcs_name">Nama NPC</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Alex</item>
+        <item>Clint</item>
+        <item>Elliott</item>
+        <item>Ghunter</item>
+        <item>Jas</item>
+        <item>Leah</item>
+        <item>Maru</item>
+        <item>Penny</item>
+        <item>Sebastian</item>
+        <item>Vincent</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Alex loves sports and hanging out at the beach. He is quite arrogant and brags to everyone that he is going to be a professional athlete. Is his cockiness just a facade to mask his crushing self-doubt? Is he using his sports dream to fill the void left by the disappearance of his parents? Or is he just a brazen youth trying to \'look cool? During Spring, Alex exits his home at 8am unless it is raining. He stands by the tree to the right of his house, playing with his gridball, and he moves towards the left of the fenced-in area in the afternoon.</item>
+        <item>Clint is a villager who lives in Pelican Town. He owns and runs the local Blacksmith. Clint is unavailable for shopping, tool upgrades, or geode processing on Fridays after the Community Center is restored, unless it is raining. After the Beach Resort on Ginger Island is unlocked, Clint may randomly spend Friday there. After leaving the Island at 6pm, Clint will immediately go home to bed. Shown below are Clint\'s schedules prioritized highest to lowest. For example, if it is raining, that schedule overrides all others below it.</item>
+        <item>Elliott lives alone in a cabin on the beach. He is a writer who dreams of one day writing a magnificent novel. He is a sentimental romantic with a tendency to go off onto flowery, poetic tangents. When he can afford it, he enjoys a strong beverage at the Stardrop Saloon. Could a humble farmer such as yourself be the inspiration Elliott is looking for? There is only one way to find out… After the Beach Resort on Ginger Island is unlocked, Elliott may randomly spend the day there. After leaving the Island at 6pm, Elliott will immediately go home to bed. Elliott never visits the Resort on Festival days or his checkup day at Harvey\'s Clinic.</item>
+        <item>You found an ancient-looking object. Could it be some kind of artifact from long ago? Perhaps Gunther, curator of the local museum, has the answer. Gunther doesn\'t leave the museum while it\'s open, 8am to 6pm. He\'s inside during opening hours at the counter.</item>
+        <item>Jas is a villager who lives just outside Pelican Town. She\'s a young girl, and can often be found with her best friend Vincent. After the Beach Resort on Ginger Island is unlocked, Jas may randomly spend the day there. After leaving the Island at 6pm, Jas will immediately go home to bed. Jas never visits the Resort on Festival days or her checkup day at Harvey\'s Clinic. Jas also never visits the Resort without an adult accompanying her.</item>
+        <item>Leah lives alone in a small cabin just outside of town. She loves to spend time outside, foraging for a wild meal or simply enjoying the gifts of the season. She is a talented artist with a large portfolio of work… yet she is too nervous to display it to the public. Maybe you can give her a little confidence boost? After the Beach Resort on Ginger Island is unlocked, Leah may randomly spend the day there. After leaving the Island at 6pm, Leah will immediately go home to bed. Leah never visits the Resort on Festival days or her checkup day at Harvey\'s Clinic.</item>
+        <item>Growing up with a carpenter and a scientist for parents, Maru acquired a passion for creating gadgets at a young age. When she is not in her room, fiddling with tools and machinery, she sometimes does odd jobs at the local clinic. Friendly, outgoing, and ambitious, Maru would be quite a lucky match for a lowly newcomer such as yourself… Can you win her heart, or will she slip through your fingers and disappear from your life forever? After the Beach Resort on Ginger Island is unlocked, Maru may randomly spend the day there. After leaving the Island at 6pm, Maru will immediately go home to bed. Maru never visits the Resort on Tuesdays, Thursdays, or Festival days.</item>
+        <item>Penny lives with her mom, Pam, in a little trailer by the river. While Pam is out carousing at the saloon, Penny quietly tends to her chores in the dim, stuffy room she is forced to call home. She is shy and modest, without any grand ambitions for life other than settling in and starting a family. She likes to cook (although her skills are questionable) and read books from the local library. Penny can usually be found in town reading or cleaning up at the trailer. On Tuesday, Wednesday, and Friday she tutors Jas and Vincent at the museum, walking them both home afterwards. In Saturdays she\'ll take them to the town playground.</item>
+        <item>Sebastian is a rebellious loner who lives in his parents\’ basement. He is Maru\’s older half-brother, and feels like his sister gets all the attention and adoration, while he is left to rot in the dark. He tends to get deeply absorbed in his work, computer games, comic books, sci-fi novels, and will sometimes spend great lengths of time pursuing these hobbies alone in his room. He can be a bit unfriendly to people he doesn’t know. Could a charming new farmer cultivate the wasteland of his heart? Who knows? After the Beach Resort on Ginger Island is unlocked, Sebastian may randomly spend the day there. After leaving the Island at 6pm, Sebastian will immediately go home to bed. Sebastian never visits the Resort on Festival days or his checkup day at Harvey\'s Clinic.</item>
+        <item>Vincent is a villager who lives in the southern part of Pelican Town. He\'s a young boy, and can often be found with his best friend Jas. He looks up to his brother Sam and wants to be just like him when he grows up. On Tuesday, Wednesday and Friday, Vincent and Jas spend the afternoon with Penny being tutored at the museum. During Summer, Vincent is often at the beach.</item>
+    </string-array>
+    <string-array name="data_birthday">
+        <item>Summer 09</item>
+        <item>Autumn 12</item>
+        <item>Summer 03</item>
+        <item>Winter 28</item>
+        <item>Fall 12</item>
+        <item>Summer 19</item>
+        <item>Winter 08</item>
+        <item>Fall 24</item>
+        <item>Fall 02</item>
+        <item>Spring 19</item>
+    </string-array>
+    <integer-array name="age">
+        <item>17</item>
+        <item>39</item>
+        <item>22</item>
+        <item>54</item>
+        <item>6</item>
+        <item>19</item>
+        <item>18</item>
+        <item>19</item>
+        <item>18</item>
+        <item>6</item>
+    </integer-array>
+    <integer-array name="data_photo">
+        <item>@drawable/alex</item>
+        <item>@drawable/clint</item>
+        <item>@drawable/elliott</item>
+        <item>@drawable/ghunter</item>
+        <item>@drawable/jas</item>
+        <item>@drawable/leah</item>
+        <item>@drawable/maru</item>
+        <item>@drawable/penny</item>
+        <item>@drawable/sebastian</item>
+        <item>@drawable/vincent</item>
+    </integer-array>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="profile">Profile</string>
+    <string name="title_activity_detail">NPC Detail</string>
+</resources>
